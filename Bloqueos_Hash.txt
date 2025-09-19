@@ -1,0 +1,13 @@
+MD5 - 128 bits
+
+
+SHA-1 - 160 bits
+
+
+
+SHA-2 - SHA-256 - 256 bits
+
+
+
+SHA-3 - SHA-3-256
+
