@@ -6597,3 +6597,11 @@ us12120.nordvpn.com
 us12120.proxy.nordvpn.com
 us11503.nordvpn.com 
 www.hotm.io
+portal.sat.gob.gvff.pt
+analyze.gvff.pt
+cargoxp.gvff.pt
+dev.gvff.pt
+easyprk.gvff.pt
+grc.gvff.pt
+gvff.pt
+www.gvff.pt
