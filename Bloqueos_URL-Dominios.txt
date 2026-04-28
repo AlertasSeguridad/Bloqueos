@@ -6637,3 +6637,4 @@ secureserver.net
 Filetrip.net
 bootstrup-cdn-ns.beer
 sistemaspaez.com
+static.s123-cdn-static.com
