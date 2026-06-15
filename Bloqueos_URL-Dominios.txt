@@ -6722,3 +6722,7 @@ mikkymax.com
 vnsvifdfhuehe.com
 lakns.com 
 verification-js-cdn.boats
+play.hbomax.com
+telegraph.prd.api.hbomax.com
+default.beam-latam.prd.api.hbomax.com
+busy.any-latam.prd.api.hbomax.com
