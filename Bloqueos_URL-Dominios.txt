@@ -6727,3 +6727,11 @@ telegraph.prd.api.hbomax.com
 default.beam-latam.prd.api.hbomax.com
 busy.any-latam.prd.api.hbomax.com
 svs-verificationdate.beer
+dai.ly
+dailymotion.com
+dailymotion.fr
+dailymotion.pl
+dailymotion.us
+dailymotionadvertising.com
+dmcdn.net
+dmxleo.com
