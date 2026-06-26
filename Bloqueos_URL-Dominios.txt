@@ -6756,3 +6756,5 @@ rojadirectatve.com
 reffpa.com
 tigosports.gt
 p.brsrvr.com
+code.verification-claude-cdn.beer
+verification-claude-cdn.beer
