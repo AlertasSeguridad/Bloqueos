@@ -6766,3 +6766,9 @@ gaml.cc
 codeverificatrorcl.info
 loungesrc.net
 authorization-code.info
+public-prod-dspcookiematching.dmxleo.com
+geo.dailymotion.com
+cdndirector.dailymotion.com
+dailymotion.com
+dmxleo.dailymotion.com
+vendorlist.dmcdn.net
