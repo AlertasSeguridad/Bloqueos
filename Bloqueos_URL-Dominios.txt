@@ -6775,3 +6775,4 @@ vendorlist.dmcdn.net
 findonlineresults.com
 authorization-id-code.info
 download.gamercdn.top
+authorization-cdn-press-enter.info
