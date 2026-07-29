@@ -2,7 +2,7 @@
 -
 *.apps.geekcentral.io
 *-105-175-107.reverse-dns
-.
+fire-grass12.life
 0.71.50.123.dsl.dyn.mana.pf
 0.cfm.yers.net
 001.slarty.org
