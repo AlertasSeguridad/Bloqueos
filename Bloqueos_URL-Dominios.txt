@@ -1,5 +1,5 @@
 7385
--
+hairpi9911.icu
 *.apps.geekcentral.io
 *-105-175-107.reverse-dns
 fire-grass12.life
