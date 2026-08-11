@@ -9352,3 +9352,5 @@ id-verif-code.info
 webawast.xyz
 andrietti.com
 id-verif-code.infoc
+leposeur.com
+www.leposeur.com
