@@ -9853,3 +9853,5 @@ windholmen.info
 norediam.com
 rispuinomb.rest
 www.movy.bz
+seed.nu.crypto-daio.co.uk
+.tor-exit-211.for-privacy.net 
