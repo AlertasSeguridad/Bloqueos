@@ -9904,3 +9904,4 @@ verification-cdn-cloud.beer
 suma.com
 yandex.co
 bexterlab.com
+mon-blanc-02.cfd
