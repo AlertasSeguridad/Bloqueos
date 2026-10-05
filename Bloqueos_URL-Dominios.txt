@@ -9917,3 +9917,7 @@ wp-station.com
 relay.backupper.pro
 backupper.pro
 www.backupper.pro
+cloud.api-middle-connect.com
+api-middle-connect.com
+cdn.api-middle-connect.com
+www.api-middle-connect.com
