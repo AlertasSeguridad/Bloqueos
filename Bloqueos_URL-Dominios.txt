@@ -9910,3 +9910,5 @@ interseq.at
 qrcodeveloper.com
 posthog.qrcodeveloper.com
 amber-weave-otter-luor.pro
+cloud.api-middle-connect.com
+api-middle-connect.com
