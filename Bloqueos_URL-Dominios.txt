@@ -9922,3 +9922,4 @@ api-middle-connect.com
 cdn.api-middle-connect.com
 www.api-middle-connect.com
 cdn.wp-station.com
+genericcorner.net
